@@ -3050,7 +3050,7 @@ textarea.form-control-lg {
 .btn-primary:disabled, .btn-primary.disabled {
   color: #fff;
   background-color: ##d8324d;
-  border-color: ##db334f;
+  border-color: #2937f0;
 }
 
 .btn-secondary {
@@ -11337,6 +11337,9 @@ section {
   color: #fa345c;
 }
 
+#mc_embed_signup .button {
+  background-color: #d53a58;
+}
 /*!
  * html5-device-mockups (https://github.com/pixelsign/html5-device-mockups)
  * Copyright 2013 - 2017 pixelsign
